@@ -1,81 +1,12 @@
+- name: Gallery
+  link: /
 - name: About
   link: about/
-  dropdown:
-    - name: About US-RSE
-      link: about
-    - name: Mission
-      link: about/mission/
-    - name: DEI Mission Statement
-      link: /about/dei-mission/
-    - name: What is an RSE?
-      link: about/what-is-an-rse/
-    - name: Governance
-      link: about/governance/
-    - name: Steering Committee
-      link: about/steering-committee/
-    - name: Election
-      link: about/election/
-    - name: Financial Status
-      link: about/finances/
-    - name: Code of Conduct
-      link: about/code-of-conduct/
-    - name: Working Groups
-      link: about/working-groups/
-    - name: Contact
-      link: about/contact/
-- name: Events
-  link: events/
-  dropdown:
-    - name: Events
-      link: events
-    - name: Calendar
-      link: events/calendar
-    - name: Archive
-      link: events/archive/
-- name: Get Involved
-  link: join/
-  dropdown:
-    - name: Join US-RSE
-      link: join
-    - name: Support US-RSE
-      link: support
-    - name: Get Involved
-      link: get-involved
-    - name: Share
-      link: share
-    - name: Community Whitepapers
-      link: community-whitepapers
-- name: Job Board
-  link: jobs/
-  dropdown:
-    - name: Browse the board
-      link: jobs
-    - name: About submitting jobs
-      link: jobs/policy/
-    - name: Submit a job
-      link: https://docs.google.com/forms/d/e/1FAIpQLSfYK64R1c0rj-ERldGLxuqedLIbsYPZXj9uBplDRYNmnND10Q/viewform?usp=sf_link
-      external: true
-- name: News
-  link: news/
-  dropdown:
-    - name: Newsletters
-      link: newsletters
-    - name: News and Updates
-      link: news
-    - name: News Archive
-      link: archive
-
-- name: Resources
-  dropdown:
-    - name: RSE Resources
-      link: resources/rses/
-    - name: Training Material
-      link: resources/training/
-    - name: Organizations
-      link: resources/organizations/
-
 - name: External
   dropdown:
+    - name: US-RSE Home
+      link: "https://us-rse.org/"
+      external: true
     - name: RSE Map
       link: "https://us-rse.org/usrse-map"
       external: true

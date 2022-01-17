@@ -1,8 +1,0 @@
-boards:
-  - name: Software Carpentries Job Opportunities
-    url: https://carpentries.topicbox.com/groups/opportunities
-  - name: Academic Data Science Alliance Jobs
-    url: https://academicdatascience.org/jobs
-  - name: Society of Research Software Engineering Vacancies
-    url: https://society-rse.org/careers/vacancies/
-
